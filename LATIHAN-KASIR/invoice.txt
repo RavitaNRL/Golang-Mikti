@@ -1,0 +1,5 @@
+INVOICE TOKO MAKMUR ABADI
+Nama Barang: Mouse
+Harga Satuan: Rp100000
+Jumlah Barang: 4
+Total: Rp400000
